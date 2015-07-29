@@ -2,4 +2,5 @@
 
 勉強会にて
 
-楽しい！
+取りあえずこれに取り組み中
+https://github.com/suzukiyuichi/git_practice/wiki
